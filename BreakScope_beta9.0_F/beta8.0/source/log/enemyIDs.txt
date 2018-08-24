@@ -1,0 +1,10 @@
+0: StealthFrog
+1: RedOgre
+2: Grayman
+3: Machine_Gunner
+4: TANK
+5: BlackSniper
+6: HeavySuppressor
+7: B_SHESS
+8: Sakuya
+9: Sakuya2

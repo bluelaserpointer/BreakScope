@@ -1,0 +1,5 @@
+エンティティ追加コード記入説明　BreakScopeVersion = 1.9.0 ConfigVersion = 1.0
+
+
+デフォルトの追加コード参照場所はBreakScope9.0\beta9.0\source\Entity内です。
+コンフィグ2.0で記述する場合は、一度このフォルダ内でビルドしてから、専用フォルダー内に移動してください。

@@ -1,0 +1,15 @@
+0: Cement
+1: Concrete
+2: Brick
+3: Iron
+4: Fence
+5: Mud
+6: TNT
+7: Sign
+8: Lever
+9: Gate
+10: Belt
+11: Fire
+12: LoadLine
+13: Lamp
+14: ceiling_4window
